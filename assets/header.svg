@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-label="NAGI — Research and Engineering">
+<style>
+  .bg{fill:#f7f8fa}.ink{fill:#171c26}.muted{fill:#687385}.line{stroke:#d9dfe7}.accent{fill:#5577a6}
+  @media(prefers-color-scheme:dark){.bg{fill:#0d1117}.ink{fill:#e6edf3}.muted{fill:#9ba8b9}.line{stroke:#303b49}.accent{fill:#8cadd9}}
+  text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+</style>
+<rect width="1000" height="270" rx="16" class="bg"/>
+<path d="M52 42H948" class="line" stroke-width="1"/>
+<circle cx="59" cy="30" r="4" class="accent"/>
+<text x="73" y="34" font-size="13" letter-spacing="3" class="muted">INDEPENDENT RESEARCH / ENGINEERING</text>
+<text x="53" y="162" font-size="102" font-weight="750" letter-spacing="-6" class="ink">NAGI<tspan class="accent">.</tspan></text>
+<text x="58" y="205" font-size="19" letter-spacing=".8" class="muted">Build with curiosity. Research with purpose.</text>
+<path d="M52 229H948" class="line" stroke-width="1"/>
+<text x="57" y="251" font-size="12" letter-spacing="2" class="muted">CYBERSECURITY    /    AUTONOMOUS SYSTEMS    /    EMBEDDED ENGINEERING</text>
+<g transform="translate(859 90)" opacity=".42"><path d="M0 0H90M0 25H90M0 50H90M0 75H90M0 100H90M0 0V100M30 0V100M60 0V100M90 0V100" class="line" stroke-width="1"/><circle cx="60" cy="50" r="8" class="accent"/></g>
+</svg>
