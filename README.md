@@ -1,46 +1,85 @@
-# Nagi
+<div align="center">
 
-**Student Engineer · Research & Engineering**
+<img src="./assets/header.svg" alt="NAGI — Research and Engineering" width="100%" />
 
-Exploring cybersecurity, building systems, and learning through research.
+<br />
 
-Based in Taiwan · Asia Eastern University of Science and Technology
+Student engineer based in Taiwan. Exploring how systems work, and building what comes next.
 
-[Website](https://nagi.tw) · [Research Notes](https://notes.nagi.tw)
+[Portfolio](https://nagi.tw) &nbsp;·&nbsp; [Research Notes](https://notes.nagi.tw) &nbsp;·&nbsp; [Projects](https://github.com/seraphforge?tab=repositories)
 
----
+</div>
 
-### About
+<br />
 
-I'm Hong Xin-Fu (Nagi), a student engineer working across software, cybersecurity, embedded systems, and interdisciplinary research.
+### 01 / About
 
-I enjoy understanding how systems work, testing ideas through experiments, and turning research into practical engineering projects.
+I'm **Hong Xin-Fu (Nagi)**, a student engineer at Asia Eastern University of Science and Technology.
 
-### Research Interests
+My interests sit at the intersection of **security, software, hardware, and applied research**. I work on practical experiments, prototypes, and open engineering projects — from connected devices to autonomous systems.
 
-- **Cybersecurity & Communications** — Network security, 5G/6G, protocol analysis
-- **Embedded Systems & IoT** — ESP32, device communication, firmware security
-- **Autonomous Systems** — UAVs, flight control, simulation
-- **Medical Technology** — Medical IoT, device trust, secure systems
-- **Applied AI** — Local language models, AI agents, edge computing
+### 02 / Research & Engineering
 
-### Selected Work
-
-| Project | Focus |
+| Area | Current interests |
 | :--- | :--- |
-| [AEUST Drone](https://github.com/seraphforge/AEUST_drone) | UAV engineering, communications, autonomous systems |
-| [Nagi.tw](https://github.com/seraphforge/nagi.tw) | Personal engineering and research portfolio |
-| [Research Notes](https://github.com/seraphforge/notes.nagi.tw) | Technical writing and research documentation |
-| [Vacant Education Bureau](https://github.com/seraphforge/Vacant-Education-Bureau) | Data collection and analysis |
+| Cybersecurity & Networks | 5G/6G security · protocols · systems |
+| Embedded & IoT | ESP32 · firmware · device communication |
+| Autonomous Systems | UAV · flight control · simulation |
+| Medical Technology | Medical IoT · device trust |
+| Applied AI | Local LLMs · agents · edge AI |
 
-### GitHub Activity
+### 03 / Selected Work
 
-![GitHub contribution chart](https://ghchart.rshah.org/seraphforge)
+<table>
+<tr><td width="50%" valign="top">
 
-### Connect
+#### [AEUST Drone ↗](https://github.com/seraphforge/AEUST_drone)
+UAV research and engineering.<br />
+<sub>Flight systems · Communications · Autonomy</sub>
 
-[Personal Website](https://nagi.tw) · [Research Notes](https://notes.nagi.tw) · [GitHub](https://github.com/seraphforge)
+</td><td width="50%" valign="top">
+
+#### [Nagi.tw ↗](https://github.com/seraphforge/nagi.tw)
+Personal engineering and research portfolio.<br />
+<sub>Web engineering · Technical identity</sub>
+
+</td></tr>
+<tr><td valign="top">
+
+#### [Research Notes ↗](https://github.com/seraphforge/notes.nagi.tw)
+Technical notes, experiments, and documentation.<br />
+<sub>Research · Learning · Writing</sub>
+
+</td><td valign="top">
+
+#### [Vacant Education Bureau ↗](https://github.com/seraphforge/Vacant-Education-Bureau)
+Information collection and analysis systems.<br />
+<sub>Data pipelines · Analysis</sub>
+
+</td></tr>
+</table>
+
+### 04 / Development Activity
+
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=seraphforge&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=e6edf3&amp;text_color=9ba8b9&amp;icon_color=8cadd9" media="(prefers-color-scheme: dark)" />
+    <img alt="GitHub statistics" height="165" src="https://github-readme-stats.vercel.app/api?username=seraphforge&amp;show_icons=true&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=171c26&amp;text_color=687385&amp;icon_color=5577a6" />
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=seraphforge&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=e6edf3&amp;text_color=9ba8b9" media="(prefers-color-scheme: dark)" />
+    <img alt="Most used languages in public repositories" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seraphforge&amp;layout=compact&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=171c26&amp;text_color=687385" />
+  </picture>
+</div>
+
+<sub>Statistics are provided by a third-party service and may be temporarily unavailable.</sub>
 
 ---
 
-<sub>Learning through research. Building through engineering.</sub>
+<div align="center">
+
+<sub>RESEARCH · ENGINEERING · CONTINUOUS LEARNING</sub>
+
+[**nagi.tw**](https://nagi.tw) &nbsp; / &nbsp; [**notes.nagi.tw**](https://notes.nagi.tw)
+
+</div>
