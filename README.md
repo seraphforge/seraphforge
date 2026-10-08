@@ -1,85 +1,68 @@
+<!-- NAGI / GitHub Profile Dashboard -->
 <div align="center">
-
-<img src="./assets/header.svg" alt="NAGI — Research and Engineering" width="100%" />
-
-<br />
-
-Student engineer based in Taiwan. Exploring how systems work, and building what comes next.
-
-[Portfolio](https://nagi.tw) &nbsp;·&nbsp; [Research Notes](https://notes.nagi.tw) &nbsp;·&nbsp; [Projects](https://github.com/seraphforge?tab=repositories)
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=95&section=header&text=NAGI%20%2F%20SERAPHFORGE&fontSize=35&fontColor=f0f6fc&fontAlignY=53&desc=RESEARCH%20%E2%80%A2%20ENGINEERING%20%E2%80%A2%20BUILDING&descAlignY=83&descSize=12" alt="Nagi — Research and Engineering" width="100%" />
 </div>
-
-<br />
-
-### 01 / About
-
-I'm **Hong Xin-Fu (Nagi)**, a student engineer at Asia Eastern University of Science and Technology.
-
-My interests sit at the intersection of **security, software, hardware, and applied research**. I work on practical experiments, prototypes, and open engineering projects — from connected devices to autonomous systems.
-
-### 02 / Research & Engineering
-
-| Area | Current interests |
-| :--- | :--- |
-| Cybersecurity & Networks | 5G/6G security · protocols · systems |
-| Embedded & IoT | ESP32 · firmware · device communication |
-| Autonomous Systems | UAV · flight control · simulation |
-| Medical Technology | Medical IoT · device trust |
-| Applied AI | Local LLMs · agents · edge AI |
-
-### 03 / Selected Work
 
 <table>
-<tr><td width="50%" valign="top">
+<tr>
+<td width="34%" valign="top" align="center">
 
-#### [AEUST Drone ↗](https://github.com/seraphforge/AEUST_drone)
-UAV research and engineering.<br />
-<sub>Flight systems · Communications · Autonomy</sub>
+<img src="https://github.com/seraphforge.png" width="135" alt="Nagi GitHub avatar" />
 
-</td><td width="50%" valign="top">
+### Nagi
+<sub>Hong Xin-Fu</sub>
 
-#### [Nagi.tw ↗](https://github.com/seraphforge/nagi.tw)
-Personal engineering and research portfolio.<br />
-<sub>Web engineering · Technical identity</sub>
+<sub>Student Engineer & Researcher</sub>
 
-</td></tr>
-<tr><td valign="top">
+<sub>📍 Taiwan · AEUST</sub>
 
-#### [Research Notes ↗](https://github.com/seraphforge/notes.nagi.tw)
-Technical notes, experiments, and documentation.<br />
-<sub>Research · Learning · Writing</sub>
+<br />
 
-</td><td valign="top">
+<a href="https://nagi.tw">Portfolio ↗</a><br />
+<a href="https://notes.nagi.tw">Research Notes ↗</a><br />
+<a href="https://github.com/seraphforge?tab=repositories">Repositories ↗</a>
 
-#### [Vacant Education Bureau ↗](https://github.com/seraphforge/Vacant-Education-Bureau)
-Information collection and analysis systems.<br />
-<sub>Data pipelines · Analysis</sub>
+<br />
 
-</td></tr>
+<sub>Cybersecurity · 5G/6G</sub><br />
+<sub>Embedded Systems · IoT</sub><br />
+<sub>UAV · Autonomous Systems</sub><br />
+<sub>Medical Technology · AI</sub>
+
+</td>
+<td width="66%" valign="top">
+
+<div align="center">
+
+<sub>CONTRIBUTION ACTIVITY</sub>
+
+<img src="https://ghchart.rshah.org/40c463/seraphforge" width="100%" alt="GitHub contribution activity" />
+
+<sub>GITHUB / ENGINEERING OVERVIEW</sub>
+
+<a href="https://github.com/seraphforge">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=seraphforge&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=f0f6fc&amp;text_color=9da7b3&amp;icon_color=3fb950&amp;include_all_commits=true" />
+<img width="100%" alt="GitHub activity statistics" src="https://github-readme-stats.vercel.app/api?username=seraphforge&amp;show_icons=true&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=24292f&amp;text_color=57606a&amp;icon_color=2da44e&amp;include_all_commits=true" />
+</picture>
+</a>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=seraphforge&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=f0f6fc&amp;text_color=9da7b3&amp;langs_count=6" />
+<img width="100%" alt="Most used repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seraphforge&amp;layout=compact&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=24292f&amp;text_color=57606a&amp;langs_count=6" />
+</picture>
+
+</div>
+</td>
+</tr>
 </table>
 
-### 04 / Development Activity
-
-<div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=seraphforge&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=e6edf3&amp;text_color=9ba8b9&amp;icon_color=8cadd9" media="(prefers-color-scheme: dark)" />
-    <img alt="GitHub statistics" height="165" src="https://github-readme-stats.vercel.app/api?username=seraphforge&amp;show_icons=true&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=171c26&amp;text_color=687385&amp;icon_color=5577a6" />
-  </picture>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=seraphforge&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=e6edf3&amp;text_color=9ba8b9" media="(prefers-color-scheme: dark)" />
-    <img alt="Most used languages in public repositories" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seraphforge&amp;layout=compact&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=171c26&amp;text_color=687385" />
-  </picture>
-</div>
-
-<sub>Statistics are provided by a third-party service and may be temporarily unavailable.</sub>
-
----
-
 <div align="center">
 
-<sub>RESEARCH · ENGINEERING · CONTINUOUS LEARNING</sub>
+### Selected Engineering Work
 
-[**nagi.tw**](https://nagi.tw) &nbsp; / &nbsp; [**notes.nagi.tw**](https://notes.nagi.tw)
+<a href="https://github.com/seraphforge/AEUST_drone">AEUST Drone</a> &nbsp; / &nbsp; <a href="https://github.com/seraphforge/nagi.tw">Nagi.tw</a> &nbsp; / &nbsp; <a href="https://github.com/seraphforge/notes.nagi.tw">Research Notes</a> &nbsp; / &nbsp; <a href="https://github.com/seraphforge/Vacant-Education-Bureau">Data Systems</a>
+
+<sub>Building systems. Documenting experiments. Learning by doing.</sub>
 
 </div>
